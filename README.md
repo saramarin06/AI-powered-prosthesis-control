@@ -33,10 +33,6 @@ Dependencias principales:
 - `tensorflow` (para los modelos DNN)
 - `jupyter` o `jupyterlab` (si se usan notebooks)
 
-Para instalar todo con:
-
-```bash
-pip install -r requirements.txt
 
 ##  Resultados esperados
 
@@ -132,8 +128,11 @@ Basado en la literatura EMG y en la estructura del pipeline, se espera que el pr
 
 
 
-
-
-
-
 Toda la información relacionada al proyecto la puedes encontrar en la [Wiki](https://github.com/saramarin06/AI-powered-prosthesis-control/wiki/1.-Introducción)
+
+Para instalar todo con:
+
+```bash
+pip install -r requirements.txt
+
+
